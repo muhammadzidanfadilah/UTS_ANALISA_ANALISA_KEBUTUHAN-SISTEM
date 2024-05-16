@@ -10,7 +10,9 @@ KELAS : TI.22.A.2
 
 # Analisa Kebutuhan Sistem Informasi Kebersihan Toilet Kampus 
 
-Silahkan klik untuk membuka file saya [312210277_Muhammad Zidan Fadillah_TI.22.A.2_ANALISA KEBUTUHAN SISTEM INFORMASI KEBERSIHAN TOILET KAMPUS_.pdf](https://github.com/muhammadzidanfadilah/UTS_ANALISA_KEBUTUHAN_SISTEM/files/15332859/312210277_Muhammad.Zidan.Fadillah_TI.22.A.2_ANALISA.KEBUTUHAN.SISTEM.INFORMASI.KEBERSIHAN.TOILET.KAMPUS_.pdf)
+- Silahkan klik untuk membuka file saya 
+
+
 
 
 # VIDEO YANG SAYA BUAT DARI MATERI PERKULIAHAN
