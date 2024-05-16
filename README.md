@@ -1,8 +1,8 @@
 # UTS ANALISA KEBUTUHAN SISTEM
 
 ```
-NAMA : Muhammad Zidan Fadillah
-NIM : 312210277
+NAMA  : Muhammad Zidan Fadillah
+NIM   : 312210277
 KELAS : TI.22.A.2
 ```
 
