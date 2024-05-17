@@ -22,8 +22,7 @@ Mata Kuliah : Analisa Kebutuhan Sistem
 # Laporan Analisa Kebutuhan Sistem
 
 #  File PDF Analisa Kebutuhan Sistem Informasi Kebersihan Toilet Kampus 
-Silahkan klik link di bawah untuk membuka file pdf saya [312210277_Muhammad.Zidan.Fadillah_TI.22.A.2_ANALISA.KEBUTUHAN.SISTEM.INFORMASI.KEBERSIHAN.TOILET.KAMPUS_'.pdf](https://github.com/muhammadzidanfadilah/UTS_ANALISA_KEBUTUHAN_SISTEM/files/15344672/312210277_Muhammad.Zidan.Fadillah_TI.22.A.2_ANALISA.KEBUTUHAN.SISTEM.INFORMASI.KEBERSIHAN.TOILET.KAMPUS_.pdf)
-
+Silahkan klik link di bawah untuk membuka file pdf saya [312210277_Muhammad.Zidan.Fadillah_TI.22.A.2_ANALISA.KEBUTUHAN.SISTEM.INFORMASI.KEBERSIHAN.TOILET.KAMPUS_,.pdf](https://github.com/muhammadzidanfadilah/UTS_ANALISA_KEBUTUHAN_SISTEM/files/15344741/312210277_Muhammad.Zidan.Fadillah_TI.22.A.2_ANALISA.KEBUTUHAN.SISTEM.INFORMASI.KEBERSIHAN.TOILET.KAMPUS_.pdf)
 
 
 
